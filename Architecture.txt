@@ -1,5 +1,11 @@
 Casa
 -------------
-Construccion
-Iluminacion
-Electricidad
+1- Construccion
+2- Iluminacion
+3- Electricidad
+
+Banco
+-------------
+1- Hipotecario
+2- Seguro
+3- Cuenta
